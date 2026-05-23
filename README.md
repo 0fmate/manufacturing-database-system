@@ -4,6 +4,7 @@ Database project developed for the undergraduate **Base di Dati** exam.
 
 This repository contains the design and implementation of a manufacturing database system for managing customers, orders, suppliers, components, production activities, quality control, logistics, and analytical reporting. The project includes an EER model, a relational schema, SQL queries for operational analysis, a MongoDB reporting section, an OLAP-oriented analytical extension based on a star schema, and a small Python command-line utility for interacting with the database. 
 
+
 ## Authors
 
 - Davide D'Amico
