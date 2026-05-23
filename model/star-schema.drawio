@@ -1,0 +1,148 @@
+<mxfile host="Electron" modified="2024-05-30T15:13:19.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="llQZlAD2_ETe4lyFhuyC" version="23.1.5" type="device">
+  <diagram name="Pagina-1" id="4riuSATzpeQCNvVpU3Jy">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;RELAZIONI CON FORNITORI&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;IDComponente&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;u&gt;IDFornitore&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;SOMMA DI&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(PrezzoAcquisto*Quantità)=CostoTotale&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;SOMMA DI&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;(Quantità)=QuantitàTotale&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-21">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="280" y="170" width="293" height="210" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MERCE IN MAGAZZINO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;u&gt;&lt;b&gt;IDComponente&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-24">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="650" y="210" width="140" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;MERCE ACQUISTATA&lt;div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;IDComponente&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-26">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="60" y="210" width="140" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="FORNITORI&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;IDFornitore&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-27">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="356.5" y="20" width="140" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RENDIMENTO PROGETTISTI&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;PIDProduzione&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;NomeProgettista&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;IndirizzoProgettista&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;EmailProgettista&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Skill&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-29">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="307" y="445" width="214" height="140" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;PROGETTISTI&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;PIDProduzione&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-30">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="630" y="465" width="140" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="PROGETTISTI SKILL&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;PIDProduzione&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-31">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="60" y="465" width="140" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-60" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=ERmany;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startFill=0;endFill=0;" parent="1" source="fSFnNOQ8htrC3pc_oyu5-33" target="fSFnNOQ8htrC3pc_oyu5-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="VENDITE&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;VIDUfficio&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-33">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="630" y="685" width="140" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-59" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=ERmany;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" parent="1" source="fSFnNOQ8htrC3pc_oyu5-34" target="fSFnNOQ8htrC3pc_oyu5-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;ACQUISTI&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;AIDUfficio&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-34">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="60" y="685" width="140" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;CONTABILITA&#39;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;CIDUfficio&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-35">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="200" y="870" width="140" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;OPERAI&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;OIDProduzione&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-36">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="490" y="870" width="140" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-37" value="" style="endArrow=ERmany;html=1;rounded=0;entryX=0;entryY=0.427;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" target="fSFnNOQ8htrC3pc_oyu5-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="259.5" as="sourcePoint" />
+            <mxPoint x="270" y="259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-38" value="" style="endArrow=ERmany;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fSFnNOQ8htrC3pc_oyu5-27" target="fSFnNOQ8htrC3pc_oyu5-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="120" as="sourcePoint" />
+            <mxPoint x="470" y="120.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-39" value="" style="endArrow=ERmany;html=1;rounded=0;entryX=1.006;entryY=0.432;entryDx=0;entryDy=0;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="fSFnNOQ8htrC3pc_oyu5-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="648.24" y="259.64" as="sourcePoint" />
+            <mxPoint x="572.9979999999999" y="260.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-40" value="" style="endArrow=ERmany;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fSFnNOQ8htrC3pc_oyu5-30" target="fSFnNOQ8htrC3pc_oyu5-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="598.5" y="514.44" as="sourcePoint" />
+            <mxPoint x="521.4979999999999" y="514.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="fSFnNOQ8htrC3pc_oyu5-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="920" as="sourcePoint" />
+            <mxPoint x="430" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-46" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fSFnNOQ8htrC3pc_oyu5-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="900" as="sourcePoint" />
+            <mxPoint x="380" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="fSFnNOQ8htrC3pc_oyu5-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="620" as="sourcePoint" />
+            <mxPoint x="670" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-50" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="620" as="sourcePoint" />
+            <mxPoint x="700" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-52" value="" style="endArrow=ERmany;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fSFnNOQ8htrC3pc_oyu5-31" target="fSFnNOQ8htrC3pc_oyu5-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="520" as="sourcePoint" />
+            <mxPoint x="280" y="520.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-align: left;&quot;&gt;GESTIONE SALARI&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;PIDProduzione&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;u&gt;&lt;b&gt;OIDProduzione&lt;/b&gt;&lt;/u&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;AIDUfficio&lt;/u&gt;&lt;/b&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;VIDUfficio&lt;/u&gt;&lt;/b&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;CIDUfficio&lt;/u&gt;&lt;/b&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;SommaSalarioProgettista&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;SommaSalarioOperaio&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;SommaSalarioAcquisti&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;SommaSalarioVendite&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;SommaSalarioContabilità&lt;/div&gt;&lt;/div&gt;" treeRoot="1" id="fSFnNOQ8htrC3pc_oyu5-56">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="307" y="640" width="213" height="190" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-57" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=ERmany;startFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="640" as="sourcePoint" />
+            <mxPoint x="480" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-61" value="" style="endArrow=ERmany;html=1;rounded=0;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="920" as="sourcePoint" />
+            <mxPoint x="450" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFnNOQ8htrC3pc_oyu5-62" value="" style="endArrow=ERmany;html=1;rounded=0;entryX=0.34;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" target="fSFnNOQ8htrC3pc_oyu5-56" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="920" as="sourcePoint" />
+            <mxPoint x="406.5" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
